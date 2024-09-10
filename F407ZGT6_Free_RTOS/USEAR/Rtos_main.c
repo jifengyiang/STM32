@@ -1,4 +1,4 @@
-/*2024年9月10日 A-ha master_frist*/
+/*2024年9月10日 A-ha_master_frist*/
 #include "FreeRTOS.h"
 #include "task.h"
 #include "main.h"
